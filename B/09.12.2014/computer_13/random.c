@@ -30,6 +30,15 @@ int main() {
 		
 		attacker_strength = (rand() % 3) + 1;
 		
+		if (attacker_side == T) { 
+			
+		} else if (attacker_side == B) {
+		
+		} else if (attacker_side == L) {
+		
+		} else if (attacker_side == R) {
+		
+		}; 
 	}
 	
 	return 0;
